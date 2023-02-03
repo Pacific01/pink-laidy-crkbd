@@ -1,3 +1,6 @@
 [submodule "zmk-config-corne-colemak-mod-dh-spanish"]
 	path = zmk-config-corne-colemak-mod-dh-spanish
 	url = git@github.com:Pacific01/zmk-config-corne-colemak-mod-dh-spanish.git
+[submodule "aurora-corne-zmk-config"]
+	path = aurora-corne-zmk-config
+	url = https://github.com/Pacific01/aurora-corne-zmk-config
