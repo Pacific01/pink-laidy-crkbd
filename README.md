@@ -1,5 +1,11 @@
 # Corne Keyboard
 
+## Links de interés para el layout
+
+* https://github.com/zmkfirmware/zmk/issues/177
+* https://github.com/qmk/qmk_firmware/blob/master/quantum/keymap_extras/keymap_spanish.h
+* https://zmk.dev/docs/codes
+
 ## Piezas
 
 * 1x33$ [Corne v3](https://keyhive.xyz/shop/corne-v3)
